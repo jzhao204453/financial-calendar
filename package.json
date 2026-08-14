@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "fetch:earnings": "node scripts/fetch-earnings.mjs",
+    "fetch:treasury": "node scripts/fetch-treasury.mjs",
     "build": "node scripts/build-ics.mjs",
-    "update": "npm run fetch:earnings && npm run build"
+    "update": "npm run fetch:earnings && npm run fetch:treasury && npm run build"
   }
 }

@@ -1,0 +1,30 @@
+{
+  "_source_notes": "US ISM Manufacturing PMI dates: ismworld.org release calendar (confirmed, first business day of month, exception Jan = 2nd business day). Japan Manufacturing PMI (au Jibun Bank / S&P Global) exact 2026 dates are not published in advance by S&P Global; these are ESTIMATED using the same first-business-day-of-month convention S&P Global uses for its global final-PMI release batch. Verify close to date via pmi.spglobal.com.",
+  "events": [
+    { "id": "ism-2026-01", "title": "US ISM Manufacturing PMI (Dec 2025 data)", "category": "pmi", "date": "2026-01-05", "link": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/" },
+    { "id": "ism-2026-02", "title": "US ISM Manufacturing PMI (Jan 2026 data)", "category": "pmi", "date": "2026-02-02", "link": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/" },
+    { "id": "ism-2026-03", "title": "US ISM Manufacturing PMI (Feb 2026 data)", "category": "pmi", "date": "2026-03-02", "link": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/" },
+    { "id": "ism-2026-04", "title": "US ISM Manufacturing PMI (Mar 2026 data)", "category": "pmi", "date": "2026-04-01", "link": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/" },
+    { "id": "ism-2026-05", "title": "US ISM Manufacturing PMI (Apr 2026 data)", "category": "pmi", "date": "2026-05-01", "link": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/" },
+    { "id": "ism-2026-06", "title": "US ISM Manufacturing PMI (May 2026 data)", "category": "pmi", "date": "2026-06-01", "link": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/" },
+    { "id": "ism-2026-07", "title": "US ISM Manufacturing PMI (Jun 2026 data)", "category": "pmi", "date": "2026-07-01", "link": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/" },
+    { "id": "ism-2026-08", "title": "US ISM Manufacturing PMI (Jul 2026 data)", "category": "pmi", "date": "2026-08-03", "link": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/" },
+    { "id": "ism-2026-09", "title": "US ISM Manufacturing PMI (Aug 2026 data)", "category": "pmi", "date": "2026-09-01", "link": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/" },
+    { "id": "ism-2026-10", "title": "US ISM Manufacturing PMI (Sep 2026 data)", "category": "pmi", "date": "2026-10-01", "link": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/" },
+    { "id": "ism-2026-11", "title": "US ISM Manufacturing PMI (Oct 2026 data)", "category": "pmi", "date": "2026-11-02", "link": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/" },
+    { "id": "ism-2026-12", "title": "US ISM Manufacturing PMI (Nov 2026 data)", "category": "pmi", "date": "2026-12-01", "link": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/" },
+
+    { "id": "jpmi-2026-01", "title": "Japan Manufacturing PMI (Dec 2025 data, est.)", "category": "pmi_jp", "date": "2026-01-05", "link": "https://www.pmi.spglobal.com/Public/Home/PressRelease/a5e14c6d3f4140b79dfbd6c448305e03" },
+    { "id": "jpmi-2026-02", "title": "Japan Manufacturing PMI (Jan 2026 data, est.)", "category": "pmi_jp", "date": "2026-02-02", "link": "https://www.pmi.spglobal.com/Public/Home/PressRelease/a5e14c6d3f4140b79dfbd6c448305e03" },
+    { "id": "jpmi-2026-03", "title": "Japan Manufacturing PMI (Feb 2026 data, est.)", "category": "pmi_jp", "date": "2026-03-02", "link": "https://www.pmi.spglobal.com/Public/Home/PressRelease/a5e14c6d3f4140b79dfbd6c448305e03" },
+    { "id": "jpmi-2026-04", "title": "Japan Manufacturing PMI (Mar 2026 data, est.)", "category": "pmi_jp", "date": "2026-04-01", "link": "https://www.pmi.spglobal.com/Public/Home/PressRelease/a5e14c6d3f4140b79dfbd6c448305e03" },
+    { "id": "jpmi-2026-05", "title": "Japan Manufacturing PMI (Apr 2026 data, est.)", "category": "pmi_jp", "date": "2026-05-01", "link": "https://www.pmi.spglobal.com/Public/Home/PressRelease/a5e14c6d3f4140b79dfbd6c448305e03" },
+    { "id": "jpmi-2026-06", "title": "Japan Manufacturing PMI (May 2026 data, est.)", "category": "pmi_jp", "date": "2026-06-01", "link": "https://www.pmi.spglobal.com/Public/Home/PressRelease/a5e14c6d3f4140b79dfbd6c448305e03" },
+    { "id": "jpmi-2026-07", "title": "Japan Manufacturing PMI (Jun 2026 data, est.)", "category": "pmi_jp", "date": "2026-07-01", "link": "https://www.pmi.spglobal.com/Public/Home/PressRelease/a5e14c6d3f4140b79dfbd6c448305e03" },
+    { "id": "jpmi-2026-08", "title": "Japan Manufacturing PMI (Jul 2026 data, est.)", "category": "pmi_jp", "date": "2026-08-03", "link": "https://www.pmi.spglobal.com/Public/Home/PressRelease/a5e14c6d3f4140b79dfbd6c448305e03" },
+    { "id": "jpmi-2026-09", "title": "Japan Manufacturing PMI (Aug 2026 data, est.)", "category": "pmi_jp", "date": "2026-09-01", "link": "https://www.pmi.spglobal.com/Public/Home/PressRelease/a5e14c6d3f4140b79dfbd6c448305e03" },
+    { "id": "jpmi-2026-10", "title": "Japan Manufacturing PMI (Sep 2026 data, est.)", "category": "pmi_jp", "date": "2026-10-01", "link": "https://www.pmi.spglobal.com/Public/Home/PressRelease/a5e14c6d3f4140b79dfbd6c448305e03" },
+    { "id": "jpmi-2026-11", "title": "Japan Manufacturing PMI (Oct 2026 data, est.)", "category": "pmi_jp", "date": "2026-11-02", "link": "https://www.pmi.spglobal.com/Public/Home/PressRelease/a5e14c6d3f4140b79dfbd6c448305e03" },
+    { "id": "jpmi-2026-12", "title": "Japan Manufacturing PMI (Nov 2026 data, est.)", "category": "pmi_jp", "date": "2026-12-01", "link": "https://www.pmi.spglobal.com/Public/Home/PressRelease/a5e14c6d3f4140b79dfbd6c448305e03" }
+  ]
+}

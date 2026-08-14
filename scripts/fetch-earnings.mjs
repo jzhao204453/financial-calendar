@@ -6,7 +6,7 @@
 // reliable API for the full Nikkei 225 earnings calendar.
 import { writeFile } from "node:fs/promises";
 
-const DAYS_AHEAD = 90;
+const DAYS_AHEAD = 180;
 const MIN_MARKET_CAP = 10_000_000_000; // $10B
 const OUT_PATH = new URL("../data/earnings.json", import.meta.url);
 
@@ -43,10 +43,7 @@ async function fetchDay(dateISO) {
       title: `${r.name} (${r.symbol}) Earnings Call`,
       category: "earnings",
       date: dateISO,
-      time: r.time === "time-pre-market" ? "07:30" : r.time === "time-after-hours" ? "16:30" : null,
-      allDay: r.time !== "time-pre-market" && r.time !== "time-after-hours",
-      tz: "America/New_York",
-      description: `EPS forecast: ${r.epsForecast || "N/A"} | Market cap: ${r.marketCap || "N/A"}`,
+      description: `Reports ${r.time === "time-pre-market" ? "before market open" : r.time === "time-after-hours" ? "after market close" : "time TBD"}. EPS forecast: ${r.epsForecast || "N/A"} | Market cap: ${r.marketCap || "N/A"}`,
       link: `https://www.nasdaq.com/market-activity/stocks/${String(r.symbol).toLowerCase()}/earnings`,
     }));
 }

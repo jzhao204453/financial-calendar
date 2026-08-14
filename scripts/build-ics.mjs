@@ -1,8 +1,15 @@
-// Merges data/macro-us.json, data/macro-jp.json and data/earnings.json
-// into a single RFC 5545 .ics file at docs/calendar.ics.
+// Merges all data/*.json event sources into a single RFC 5545 .ics file
+// at docs/calendar.ics. Every event is emitted as an all-day (date-only)
+// entry, regardless of whether the source data has a time-of-day.
 import { readFile, writeFile } from "node:fs/promises";
 
-const FILES = ["../data/macro-us.json", "../data/macro-jp.json", "../data/earnings.json"];
+const FILES = [
+  "../data/macro-us.json",
+  "../data/macro-jp.json",
+  "../data/macro-pmi.json",
+  "../data/earnings.json",
+  "../data/treasury.json",
+];
 const OUT_PATH = new URL("../docs/calendar.ics", import.meta.url);
 
 async function loadEvents() {
@@ -18,31 +25,6 @@ async function loadEvents() {
     }
   }
   return all;
-}
-
-// Converts a wall-clock date/time in `timeZone` to a UTC Date, without
-// external tz data, using Intl.DateTimeFormat as the source of truth for
-// the zone's offset at that instant (handles DST correctly).
-function zonedTimeToUtc(dateISO, timeStr, timeZone) {
-  const [y, m, d] = dateISO.split("-").map(Number);
-  const [hh, mm] = (timeStr || "00:00").split(":").map(Number);
-  const guess = new Date(Date.UTC(y, m - 1, d, hh, mm));
-  const dtf = new Intl.DateTimeFormat("en-US", {
-    timeZone,
-    hour12: false,
-    year: "numeric",
-    month: "2-digit",
-    day: "2-digit",
-    hour: "2-digit",
-    minute: "2-digit",
-    second: "2-digit",
-  });
-  const map = {};
-  for (const p of dtf.formatToParts(guess)) map[p.type] = p.value;
-  const hour = map.hour === "24" ? 0 : Number(map.hour);
-  const asIfUtc = Date.UTC(Number(map.year), Number(map.month) - 1, Number(map.day), hour, Number(map.minute), Number(map.second));
-  const offset = asIfUtc - guess.getTime();
-  return new Date(guess.getTime() - offset);
 }
 
 function fmtUtc(date) {
@@ -92,16 +74,9 @@ function buildEvent(ev) {
   const url = ev.link ? `\r\nURL:${ev.link}` : "";
   const category = ev.category ? `\r\nCATEGORIES:${escapeText(ev.category.toUpperCase())}` : "";
 
-  let dtLines;
-  if (ev.allDay || !ev.time) {
-    const start = fmtDateOnly(ev.date);
-    const end = fmtDateOnly(addDays(ev.date, 1));
-    dtLines = `DTSTART;VALUE=DATE:${start}\r\nDTEND;VALUE=DATE:${end}`;
-  } else {
-    const startUtc = zonedTimeToUtc(ev.date, ev.time, ev.tz || "UTC");
-    const endUtc = new Date(startUtc.getTime() + 30 * 60 * 1000);
-    dtLines = `DTSTART:${fmtUtc(startUtc)}\r\nDTEND:${fmtUtc(endUtc)}`;
-  }
+  const start = fmtDateOnly(ev.date);
+  const end = fmtDateOnly(addDays(ev.date, 1));
+  const dtLines = `DTSTART;VALUE=DATE:${start}\r\nDTEND;VALUE=DATE:${end}`;
 
   const lines = [
     "BEGIN:VEVENT",
