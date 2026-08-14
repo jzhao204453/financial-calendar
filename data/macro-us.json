@@ -1,0 +1,39 @@
+{
+  "_source_notes": "FOMC dates: federalreserve.gov/monetarypolicy/fomccalendars.htm. CPI dates: BLS 2026 schedule (bls.gov/schedule, cross-checked via macroornoise.com/cpi-release-dates-2026). Employment Situation (NFP) dates: BLS 2026 schedule (cross-checked via thriveinmarkets.com/calendar/indicator/nfp). All times ET, converted to UTC accounting for DST (EDT Mar 8 - Nov 1, 2026).",
+  "events": [
+    { "id": "fomc-jan26", "title": "FOMC Rate Decision + Press Conference", "category": "fed", "date": "2026-01-28", "time": "14:00", "tz": "America/New_York", "description": "FOMC meeting Jan 27-28, 2026. Rate decision and statement released 2:00pm ET, press conference 2:30pm ET.", "link": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm" },
+    { "id": "fomc-mar26", "title": "FOMC Rate Decision + Press Conference (SEP)", "category": "fed", "date": "2026-03-18", "time": "14:00", "tz": "America/New_York", "description": "FOMC meeting Mar 17-18, 2026. Includes Summary of Economic Projections.", "link": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm" },
+    { "id": "fomc-apr26", "title": "FOMC Rate Decision + Press Conference", "category": "fed", "date": "2026-04-29", "time": "14:00", "tz": "America/New_York", "description": "FOMC meeting Apr 28-29, 2026.", "link": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm" },
+    { "id": "fomc-jun26", "title": "FOMC Rate Decision + Press Conference (SEP)", "category": "fed", "date": "2026-06-17", "time": "14:00", "tz": "America/New_York", "description": "FOMC meeting Jun 16-17, 2026. Includes Summary of Economic Projections.", "link": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm" },
+    { "id": "fomc-jul26", "title": "FOMC Rate Decision + Press Conference", "category": "fed", "date": "2026-07-29", "time": "14:00", "tz": "America/New_York", "description": "FOMC meeting Jul 28-29, 2026.", "link": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm" },
+    { "id": "fomc-sep26", "title": "FOMC Rate Decision + Press Conference (SEP)", "category": "fed", "date": "2026-09-16", "time": "14:00", "tz": "America/New_York", "description": "FOMC meeting Sep 15-16, 2026. Includes Summary of Economic Projections.", "link": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm" },
+    { "id": "fomc-oct26", "title": "FOMC Rate Decision + Press Conference", "category": "fed", "date": "2026-10-28", "time": "14:00", "tz": "America/New_York", "description": "FOMC meeting Oct 27-28, 2026.", "link": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm" },
+    { "id": "fomc-dec26", "title": "FOMC Rate Decision + Press Conference (SEP)", "category": "fed", "date": "2026-12-09", "time": "14:00", "tz": "America/New_York", "description": "FOMC meeting Dec 8-9, 2026. Includes Summary of Economic Projections.", "link": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm" },
+
+    { "id": "cpi-2026-01", "title": "US CPI Release (Dec 2025 data)", "category": "cpi", "date": "2026-01-13", "time": "08:30", "tz": "America/New_York", "description": "Consumer Price Index.", "link": "https://www.bls.gov/cpi/" },
+    { "id": "cpi-2026-02", "title": "US CPI Release (Jan 2026 data)", "category": "cpi", "date": "2026-02-13", "time": "08:30", "tz": "America/New_York", "link": "https://www.bls.gov/cpi/" },
+    { "id": "cpi-2026-03", "title": "US CPI Release (Feb 2026 data)", "category": "cpi", "date": "2026-03-11", "time": "08:30", "tz": "America/New_York", "link": "https://www.bls.gov/cpi/" },
+    { "id": "cpi-2026-04", "title": "US CPI Release (Mar 2026 data)", "category": "cpi", "date": "2026-04-10", "time": "08:30", "tz": "America/New_York", "link": "https://www.bls.gov/cpi/" },
+    { "id": "cpi-2026-05", "title": "US CPI Release (Apr 2026 data)", "category": "cpi", "date": "2026-05-12", "time": "08:30", "tz": "America/New_York", "link": "https://www.bls.gov/cpi/" },
+    { "id": "cpi-2026-06", "title": "US CPI Release (May 2026 data)", "category": "cpi", "date": "2026-06-10", "time": "08:30", "tz": "America/New_York", "link": "https://www.bls.gov/cpi/" },
+    { "id": "cpi-2026-07", "title": "US CPI Release (Jun 2026 data)", "category": "cpi", "date": "2026-07-14", "time": "08:30", "tz": "America/New_York", "link": "https://www.bls.gov/cpi/" },
+    { "id": "cpi-2026-08", "title": "US CPI Release (Jul 2026 data)", "category": "cpi", "date": "2026-08-12", "time": "08:30", "tz": "America/New_York", "link": "https://www.bls.gov/cpi/" },
+    { "id": "cpi-2026-09", "title": "US CPI Release (Aug 2026 data)", "category": "cpi", "date": "2026-09-11", "time": "08:30", "tz": "America/New_York", "link": "https://www.bls.gov/cpi/" },
+    { "id": "cpi-2026-10", "title": "US CPI Release (Sep 2026 data)", "category": "cpi", "date": "2026-10-14", "time": "08:30", "tz": "America/New_York", "link": "https://www.bls.gov/cpi/" },
+    { "id": "cpi-2026-11", "title": "US CPI Release (Oct 2026 data)", "category": "cpi", "date": "2026-11-10", "time": "08:30", "tz": "America/New_York", "link": "https://www.bls.gov/cpi/" },
+    { "id": "cpi-2026-12", "title": "US CPI Release (Nov 2026 data)", "category": "cpi", "date": "2026-12-10", "time": "08:30", "tz": "America/New_York", "link": "https://www.bls.gov/cpi/" },
+
+    { "id": "nfp-2026-01", "title": "US Jobs Report / NFP (Dec 2025 data)", "category": "nfp", "date": "2026-01-09", "time": "08:30", "tz": "America/New_York", "description": "Employment Situation report.", "link": "https://www.bls.gov/ces/" },
+    { "id": "nfp-2026-02", "title": "US Jobs Report / NFP (Jan 2026 data)", "category": "nfp", "date": "2026-02-11", "time": "08:30", "tz": "America/New_York", "link": "https://www.bls.gov/ces/" },
+    { "id": "nfp-2026-03", "title": "US Jobs Report / NFP (Feb 2026 data)", "category": "nfp", "date": "2026-03-06", "time": "08:30", "tz": "America/New_York", "link": "https://www.bls.gov/ces/" },
+    { "id": "nfp-2026-04", "title": "US Jobs Report / NFP (Mar 2026 data)", "category": "nfp", "date": "2026-04-03", "time": "08:30", "tz": "America/New_York", "link": "https://www.bls.gov/ces/" },
+    { "id": "nfp-2026-05", "title": "US Jobs Report / NFP (Apr 2026 data)", "category": "nfp", "date": "2026-05-08", "time": "08:30", "tz": "America/New_York", "link": "https://www.bls.gov/ces/" },
+    { "id": "nfp-2026-06", "title": "US Jobs Report / NFP (May 2026 data)", "category": "nfp", "date": "2026-06-05", "time": "08:30", "tz": "America/New_York", "link": "https://www.bls.gov/ces/" },
+    { "id": "nfp-2026-07", "title": "US Jobs Report / NFP (Jun 2026 data)", "category": "nfp", "date": "2026-07-02", "time": "08:30", "tz": "America/New_York", "link": "https://www.bls.gov/ces/" },
+    { "id": "nfp-2026-08", "title": "US Jobs Report / NFP (Jul 2026 data)", "category": "nfp", "date": "2026-08-07", "time": "08:30", "tz": "America/New_York", "link": "https://www.bls.gov/ces/" },
+    { "id": "nfp-2026-09", "title": "US Jobs Report / NFP (Aug 2026 data)", "category": "nfp", "date": "2026-09-04", "time": "08:30", "tz": "America/New_York", "link": "https://www.bls.gov/ces/" },
+    { "id": "nfp-2026-10", "title": "US Jobs Report / NFP (Sep 2026 data)", "category": "nfp", "date": "2026-10-02", "time": "08:30", "tz": "America/New_York", "link": "https://www.bls.gov/ces/" },
+    { "id": "nfp-2026-11", "title": "US Jobs Report / NFP (Oct 2026 data)", "category": "nfp", "date": "2026-11-06", "time": "08:30", "tz": "America/New_York", "link": "https://www.bls.gov/ces/" },
+    { "id": "nfp-2026-12", "title": "US Jobs Report / NFP (Nov 2026 data)", "category": "nfp", "date": "2026-12-04", "time": "08:30", "tz": "America/New_York", "link": "https://www.bls.gov/ces/" }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "financial-calendar",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "fetch:earnings": "node scripts/fetch-earnings.mjs",
+    "build": "node scripts/build-ics.mjs",
+    "update": "npm run fetch:earnings && npm run build"
+  }
+}
