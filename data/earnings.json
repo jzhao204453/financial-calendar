@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T14:03:00.159Z",
+  "generatedAt": "2026-08-17T14:12:04.290Z",
   "events": [
     {
       "id": "earn-FN-2026-08-17",
@@ -22,7 +22,7 @@
       "title": "Home Depot, Inc. (The) (HD) Earnings Call",
       "category": "earnings",
       "date": "2026-08-18",
-      "description": "Reports before market open. EPS forecast: $4.71 | Market cap: $340,714,770,239",
+      "description": "Reports before market open. EPS forecast: $4.71 | Market cap: $337,882,958,863",
       "link": "https://www.nasdaq.com/market-activity/stocks/hd/earnings"
     },
     {
@@ -30,7 +30,7 @@
       "title": "BHP Group Limited (BHP) Earnings Call",
       "category": "earnings",
       "date": "2026-08-18",
-      "description": "Reports time TBD. EPS forecast: N/A | Market cap: $230,037,727,586",
+      "description": "Reports time TBD. EPS forecast: N/A | Market cap: $220,416,442,681",
       "link": "https://www.nasdaq.com/market-activity/stocks/bhp/earnings"
     },
     {
@@ -38,7 +38,7 @@
       "title": "Keysight Technologies Inc. (KEYS) Earnings Call",
       "category": "earnings",
       "date": "2026-08-18",
-      "description": "Reports after market close. EPS forecast: $2.16 | Market cap: $60,471,325,967",
+      "description": "Reports after market close. EPS forecast: $2.16 | Market cap: $61,149,780,578",
       "link": "https://www.nasdaq.com/market-activity/stocks/keys/earnings"
     },
     {
@@ -46,7 +46,7 @@
       "title": "Baidu, Inc. (BIDU) Earnings Call",
       "category": "earnings",
       "date": "2026-08-18",
-      "description": "Reports before market open. EPS forecast: $1.19 | Market cap: $35,617,648,344",
+      "description": "Reports before market open. EPS forecast: $1.19 | Market cap: $35,273,993,159",
       "link": "https://www.nasdaq.com/market-activity/stocks/bidu/earnings"
     },
     {
@@ -54,7 +54,7 @@
       "title": "Sociedad Quimica y Minera S.A. (SQM) Earnings Call",
       "category": "earnings",
       "date": "2026-08-18",
-      "description": "Reports after market close. EPS forecast: $2.03 | Market cap: $20,611,624,225",
+      "description": "Reports after market close. EPS forecast: $2.03 | Market cap: $21,228,601,891",
       "link": "https://www.nasdaq.com/market-activity/stocks/sqm/earnings"
     },
     {
@@ -62,7 +62,7 @@
       "title": "Amer Sports, Inc. (AS) Earnings Call",
       "category": "earnings",
       "date": "2026-08-18",
-      "description": "Reports before market open. EPS forecast: $0.11 | Market cap: $18,469,943,857",
+      "description": "Reports before market open. EPS forecast: $0.11 | Market cap: $18,330,527,011",
       "link": "https://www.nasdaq.com/market-activity/stocks/as/earnings"
     },
     {
@@ -70,7 +70,7 @@
       "title": "ZTO Express (Cayman) Inc. (ZTO) Earnings Call",
       "category": "earnings",
       "date": "2026-08-18",
-      "description": "Reports after market close. EPS forecast: N/A | Market cap: $17,646,123,884",
+      "description": "Reports after market close. EPS forecast: N/A | Market cap: $17,630,725,870",
       "link": "https://www.nasdaq.com/market-activity/stocks/zto/earnings"
     },
     {
@@ -78,7 +78,7 @@
       "title": "Klarna Group plc (KLAR) Earnings Call",
       "category": "earnings",
       "date": "2026-08-18",
-      "description": "Reports before market open. EPS forecast: ($0.07) | Market cap: $14,592,728,239",
+      "description": "Reports before market open. EPS forecast: ($0.07) | Market cap: $14,670,349,134",
       "link": "https://www.nasdaq.com/market-activity/stocks/klar/earnings"
     },
     {
@@ -86,7 +86,7 @@
       "title": "Toll Brothers, Inc. (TOL) Earnings Call",
       "category": "earnings",
       "date": "2026-08-18",
-      "description": "Reports after market close. EPS forecast: $2.90 | Market cap: $13,956,155,010",
+      "description": "Reports after market close. EPS forecast: $2.90 | Market cap: $13,858,945,170",
       "link": "https://www.nasdaq.com/market-activity/stocks/tol/earnings"
     },
     {
@@ -94,7 +94,7 @@
       "title": "Jack Henry & Associates, Inc. (JKHY) Earnings Call",
       "category": "earnings",
       "date": "2026-08-18",
-      "description": "Reports after market close. EPS forecast: $1.44 | Market cap: $11,073,974,571",
+      "description": "Reports after market close. EPS forecast: $1.44 | Market cap: $10,892,795,082",
       "link": "https://www.nasdaq.com/market-activity/stocks/jkhy/earnings"
     },
     {
@@ -126,7 +126,7 @@
       "title": "Target Corporation (TGT) Earnings Call",
       "category": "earnings",
       "date": "2026-08-19",
-      "description": "Reports before market open. EPS forecast: $2.25 | Market cap: $70,631,259,827",
+      "description": "Reports before market open. EPS forecast: $2.26 | Market cap: $70,631,259,827",
       "link": "https://www.nasdaq.com/market-activity/stocks/tgt/earnings"
     },
     {
@@ -154,19 +154,11 @@
       "link": "https://www.nasdaq.com/market-activity/stocks/ndsn/earnings"
     },
     {
-      "id": "earn-DY-2026-08-19",
-      "title": "Dycom Industries, Inc. (DY) Earnings Call",
-      "category": "earnings",
-      "date": "2026-08-19",
-      "description": "Reports time TBD. EPS forecast: $4.36 | Market cap: $12,295,177,992",
-      "link": "https://www.nasdaq.com/market-activity/stocks/dy/earnings"
-    },
-    {
       "id": "earn-WMT-2026-08-20",
       "title": "Walmart Inc. (WMT) Earnings Call",
       "category": "earnings",
       "date": "2026-08-20",
-      "description": "Reports before market open. EPS forecast: $0.73 | Market cap: $920,908,919,817",
+      "description": "Reports before market open. EPS forecast: $0.73 | Market cap: $917,327,784,197",
       "link": "https://www.nasdaq.com/market-activity/stocks/wmt/earnings"
     },
     {
@@ -174,7 +166,7 @@
       "title": "Alibaba Group Holding Limited (BABA) Earnings Call",
       "category": "earnings",
       "date": "2026-08-20",
-      "description": "Reports before market open. EPS forecast: $1.77 | Market cap: $285,089,191,959",
+      "description": "Reports before market open. EPS forecast: $1.77 | Market cap: $288,939,856,389",
       "link": "https://www.nasdaq.com/market-activity/stocks/baba/earnings"
     },
     {
@@ -182,31 +174,31 @@
       "title": "Deere & Company (DE) Earnings Call",
       "category": "earnings",
       "date": "2026-08-20",
-      "description": "Reports before market open. EPS forecast: $4.85 | Market cap: $165,304,280,322",
+      "description": "Reports before market open. EPS forecast: $4.85 | Market cap: $164,351,401,211",
       "link": "https://www.nasdaq.com/market-activity/stocks/de/earnings"
-    },
-    {
-      "id": "earn-ROST-2026-08-20",
-      "title": "Ross Stores, Inc. (ROST) Earnings Call",
-      "category": "earnings",
-      "date": "2026-08-20",
-      "description": "Reports after market close. EPS forecast: $1.92 | Market cap: $78,578,532,377",
-      "link": "https://www.nasdaq.com/market-activity/stocks/rost/earnings"
     },
     {
       "id": "earn-NTES-2026-08-20",
       "title": "NetEase, Inc. (NTES) Earnings Call",
       "category": "earnings",
       "date": "2026-08-20",
-      "description": "Reports before market open. EPS forecast: $2.20 | Market cap: $78,266,412,078",
+      "description": "Reports before market open. EPS forecast: $2.20 | Market cap: $79,842,588,498",
       "link": "https://www.nasdaq.com/market-activity/stocks/ntes/earnings"
+    },
+    {
+      "id": "earn-ROST-2026-08-20",
+      "title": "Ross Stores, Inc. (ROST) Earnings Call",
+      "category": "earnings",
+      "date": "2026-08-20",
+      "description": "Reports after market close. EPS forecast: $1.93 | Market cap: $78,706,844,807",
+      "link": "https://www.nasdaq.com/market-activity/stocks/rost/earnings"
     },
     {
       "id": "earn-AEG-2026-08-20",
       "title": "Aegon Ltd. (AEG) Earnings Call",
       "category": "earnings",
       "date": "2026-08-20",
-      "description": "Reports before market open. EPS forecast: N/A | Market cap: $17,905,955,784",
+      "description": "Reports before market open. EPS forecast: N/A | Market cap: $18,039,582,320",
       "link": "https://www.nasdaq.com/market-activity/stocks/aeg/earnings"
     },
     {
@@ -214,7 +206,7 @@
       "title": "Futu Holdings Limited (FUTU) Earnings Call",
       "category": "earnings",
       "date": "2026-08-20",
-      "description": "Reports before market open. EPS forecast: N/A | Market cap: $14,661,533,784",
+      "description": "Reports before market open. EPS forecast: N/A | Market cap: $14,749,839,389",
       "link": "https://www.nasdaq.com/market-activity/stocks/futu/earnings"
     },
     {
@@ -222,7 +214,7 @@
       "title": "KE Holdings Inc (BEKE) Earnings Call",
       "category": "earnings",
       "date": "2026-08-21",
-      "description": "Reports before market open. EPS forecast: $0.25 | Market cap: $19,162,084,941",
+      "description": "Reports before market open. EPS forecast: $0.25 | Market cap: $19,218,576,937",
       "link": "https://www.nasdaq.com/market-activity/stocks/beke/earnings"
     },
     {
@@ -230,7 +222,7 @@
       "title": "BJ's Wholesale Club Holdings, Inc. (BJ) Earnings Call",
       "category": "earnings",
       "date": "2026-08-21",
-      "description": "Reports before market open. EPS forecast: $1.16 | Market cap: $11,943,218,604",
+      "description": "Reports before market open. EPS forecast: $1.16 | Market cap: $11,927,895,326",
       "link": "https://www.nasdaq.com/market-activity/stocks/bj/earnings"
     },
     {
@@ -238,7 +230,7 @@
       "title": "PDD Holdings Inc. (PDD) Earnings Call",
       "category": "earnings",
       "date": "2026-08-24",
-      "description": "Reports time TBD. EPS forecast: $2.69 | Market cap: $119,807,280,207",
+      "description": "Reports time TBD. EPS forecast: $2.69 | Market cap: $120,689,786,013",
       "link": "https://www.nasdaq.com/market-activity/stocks/pdd/earnings"
     },
     {
@@ -246,7 +238,7 @@
       "title": "XPeng Inc. (XPEV) Earnings Call",
       "category": "earnings",
       "date": "2026-08-24",
-      "description": "Reports before market open. EPS forecast: N/A | Market cap: $11,259,669,154",
+      "description": "Reports before market open. EPS forecast: N/A | Market cap: $11,183,202,810",
       "link": "https://www.nasdaq.com/market-activity/stocks/xpev/earnings"
     },
     {
@@ -318,7 +310,7 @@
       "title": "NVIDIA Corporation (NVDA) Earnings Call",
       "category": "earnings",
       "date": "2026-08-26",
-      "description": "Reports after market close. EPS forecast: $2.01 | Market cap: $5,452,260,000,000",
+      "description": "Reports after market close. EPS forecast: $2.01 | Market cap: $5,448,872,000,000",
       "link": "https://www.nasdaq.com/market-activity/stocks/nvda/earnings"
     },
     {
@@ -326,7 +318,7 @@
       "title": "CrowdStrike Holdings, Inc. (CRWD) Earnings Call",
       "category": "earnings",
       "date": "2026-08-26",
-      "description": "Reports after market close. EPS forecast: $0.05 | Market cap: $229,648,015,418",
+      "description": "Reports after market close. EPS forecast: $0.05 | Market cap: $220,911,350,796",
       "link": "https://www.nasdaq.com/market-activity/stocks/crwd/earnings"
     },
     {
@@ -334,7 +326,7 @@
       "title": "Salesforce, Inc. (CRM) Earnings Call",
       "category": "earnings",
       "date": "2026-08-26",
-      "description": "Reports after market close. EPS forecast: $2.35 | Market cap: $164,922,030,000",
+      "description": "Reports after market close. EPS forecast: $2.35 | Market cap: $160,695,990,000",
       "link": "https://www.nasdaq.com/market-activity/stocks/crm/earnings"
     },
     {
@@ -342,7 +334,7 @@
       "title": "Synopsys, Inc. (SNPS) Earnings Call",
       "category": "earnings",
       "date": "2026-08-26",
-      "description": "Reports after market close. EPS forecast: $2.67 | Market cap: $78,841,612,069",
+      "description": "Reports after market close. EPS forecast: $2.67 | Market cap: $80,708,535,488",
       "link": "https://www.nasdaq.com/market-activity/stocks/snps/earnings"
     },
     {
@@ -350,7 +342,7 @@
       "title": "Agilent Technologies, Inc. (A) Earnings Call",
       "category": "earnings",
       "date": "2026-08-26",
-      "description": "Reports after market close. EPS forecast: $1.48 | Market cap: $42,164,264,920",
+      "description": "Reports after market close. EPS forecast: $1.48 | Market cap: $41,949,616,642",
       "link": "https://www.nasdaq.com/market-activity/stocks/a/earnings"
     },
     {
@@ -358,7 +350,7 @@
       "title": "Veeva Systems Inc. (VEEV) Earnings Call",
       "category": "earnings",
       "date": "2026-08-26",
-      "description": "Reports after market close. EPS forecast: $1.62 | Market cap: $41,230,519,063",
+      "description": "Reports after market close. EPS forecast: $1.62 | Market cap: $39,779,682,638",
       "link": "https://www.nasdaq.com/market-activity/stocks/veev/earnings"
     },
     {
@@ -366,23 +358,15 @@
       "title": "Everpure, Inc. (P) Earnings Call",
       "category": "earnings",
       "date": "2026-08-26",
-      "description": "Reports after market close. EPS forecast: $0.19 | Market cap: $39,007,718,770",
+      "description": "Reports after market close. EPS forecast: $0.19 | Market cap: $39,276,966,765",
       "link": "https://www.nasdaq.com/market-activity/stocks/p/earnings"
-    },
-    {
-      "id": "earn-HPQ-2026-08-26",
-      "title": "HP Inc. (HPQ) Earnings Call",
-      "category": "earnings",
-      "date": "2026-08-26",
-      "description": "Reports after market close. EPS forecast: $0.66 | Market cap: $28,624,560,197",
-      "link": "https://www.nasdaq.com/market-activity/stocks/hpq/earnings"
     },
     {
       "id": "earn-WSM-2026-08-26",
       "title": "Williams-Sonoma, Inc. (WSM) Earnings Call",
       "category": "earnings",
       "date": "2026-08-26",
-      "description": "Reports time TBD. EPS forecast: $2.05 | Market cap: $28,546,488,371",
+      "description": "Reports time TBD. EPS forecast: $2.05 | Market cap: $28,445,226,285",
       "link": "https://www.nasdaq.com/market-activity/stocks/wsm/earnings"
     },
     {
@@ -390,15 +374,23 @@
       "title": "Trip.com Group Limited (TCOM) Earnings Call",
       "category": "earnings",
       "date": "2026-08-26",
-      "description": "Reports time TBD. EPS forecast: $0.84 | Market cap: $28,349,329,094",
+      "description": "Reports time TBD. EPS forecast: $0.84 | Market cap: $28,324,140,886",
       "link": "https://www.nasdaq.com/market-activity/stocks/tcom/earnings"
+    },
+    {
+      "id": "earn-HPQ-2026-08-26",
+      "title": "HP Inc. (HPQ) Earnings Call",
+      "category": "earnings",
+      "date": "2026-08-26",
+      "description": "Reports after market close. EPS forecast: $0.66 | Market cap: $27,536,278,196",
+      "link": "https://www.nasdaq.com/market-activity/stocks/hpq/earnings"
     },
     {
       "id": "earn-OKTA-2026-08-26",
       "title": "Okta, Inc. (OKTA) Earnings Call",
       "category": "earnings",
       "date": "2026-08-26",
-      "description": "Reports after market close. EPS forecast: $0.44 | Market cap: $26,931,451,207",
+      "description": "Reports after market close. EPS forecast: $0.44 | Market cap: $25,624,419,822",
       "link": "https://www.nasdaq.com/market-activity/stocks/okta/earnings"
     },
     {
@@ -406,7 +398,7 @@
       "title": "Nutanix, Inc. (NTNX) Earnings Call",
       "category": "earnings",
       "date": "2026-08-26",
-      "description": "Reports after market close. EPS forecast: $0.18 | Market cap: $18,368,278,587",
+      "description": "Reports after market close. EPS forecast: $0.18 | Market cap: $18,004,697,502",
       "link": "https://www.nasdaq.com/market-activity/stocks/ntnx/earnings"
     },
     {
@@ -414,7 +406,7 @@
       "title": "Five Below, Inc. (FIVE) Earnings Call",
       "category": "earnings",
       "date": "2026-08-26",
-      "description": "Reports time TBD. EPS forecast: $1.28 | Market cap: $13,365,439,290",
+      "description": "Reports time TBD. EPS forecast: $1.28 | Market cap: $13,521,925,134",
       "link": "https://www.nasdaq.com/market-activity/stocks/five/earnings"
     },
     {
@@ -422,7 +414,7 @@
       "title": "Li Auto Inc. (LI) Earnings Call",
       "category": "earnings",
       "date": "2026-08-26",
-      "description": "Reports before market open. EPS forecast: ($0.01) | Market cap: $13,107,495,022",
+      "description": "Reports before market open. EPS forecast: ($0.01) | Market cap: $13,096,812,467",
       "link": "https://www.nasdaq.com/market-activity/stocks/li/earnings"
     },
     {
@@ -430,15 +422,23 @@
       "title": "The J.M. Smucker Company  (SJM) Earnings Call",
       "category": "earnings",
       "date": "2026-08-26",
-      "description": "Reports before market open. EPS forecast: $2.19 | Market cap: $12,893,017,635",
+      "description": "Reports before market open. EPS forecast: $2.19 | Market cap: $12,974,246,959",
       "link": "https://www.nasdaq.com/market-activity/stocks/sjm/earnings"
+    },
+    {
+      "id": "earn-DY-2026-08-26",
+      "title": "Dycom Industries, Inc. (DY) Earnings Call",
+      "category": "earnings",
+      "date": "2026-08-26",
+      "description": "Reports before market open. EPS forecast: $4.36 | Market cap: $12,585,281,847",
+      "link": "https://www.nasdaq.com/market-activity/stocks/dy/earnings"
     },
     {
       "id": "earn-DCI-2026-08-26",
       "title": "Donaldson Company, Inc. (DCI) Earnings Call",
       "category": "earnings",
       "date": "2026-08-26",
-      "description": "Reports before market open. EPS forecast: $1.12 | Market cap: $11,093,847,170",
+      "description": "Reports before market open. EPS forecast: $1.12 | Market cap: $11,121,665,823",
       "link": "https://www.nasdaq.com/market-activity/stocks/dci/earnings"
     },
     {
@@ -446,7 +446,7 @@
       "title": "Royal Bank Of Canada (RY) Earnings Call",
       "category": "earnings",
       "date": "2026-08-27",
-      "description": "Reports before market open. EPS forecast: $2.89 | Market cap: $298,524,711,572",
+      "description": "Reports before market open. EPS forecast: $2.89 | Market cap: $301,085,038,215",
       "link": "https://www.nasdaq.com/market-activity/stocks/ry/earnings"
     },
     {
@@ -454,7 +454,7 @@
       "title": "Toronto Dominion Bank (The) (TD) Earnings Call",
       "category": "earnings",
       "date": "2026-08-27",
-      "description": "Reports before market open. EPS forecast: $1.73 | Market cap: $203,375,140,753",
+      "description": "Reports before market open. EPS forecast: $1.73 | Market cap: $205,492,952,550",
       "link": "https://www.nasdaq.com/market-activity/stocks/td/earnings"
     },
     {
@@ -462,7 +462,7 @@
       "title": "Marvell Technology, Inc. (MRVL) Earnings Call",
       "category": "earnings",
       "date": "2026-08-27",
-      "description": "Reports after market close. EPS forecast: $0.65 | Market cap: $194,577,783,862",
+      "description": "Reports after market close. EPS forecast: $0.65 | Market cap: $194,437,661,234",
       "link": "https://www.nasdaq.com/market-activity/stocks/mrvl/earnings"
     },
     {
@@ -470,7 +470,7 @@
       "title": "Canadian Imperial Bank of Commerce (CM) Earnings Call",
       "category": "earnings",
       "date": "2026-08-27",
-      "description": "Reports before market open. EPS forecast: $1.78 | Market cap: $111,856,944,472",
+      "description": "Reports before market open. EPS forecast: $1.78 | Market cap: $113,204,131,128",
       "link": "https://www.nasdaq.com/market-activity/stocks/cm/earnings"
     },
     {
@@ -478,7 +478,7 @@
       "title": "Autodesk, Inc. (ADSK) Earnings Call",
       "category": "earnings",
       "date": "2026-08-27",
-      "description": "Reports after market close. EPS forecast: $2.35 | Market cap: $54,429,560,000",
+      "description": "Reports after market close. EPS forecast: $2.35 | Market cap: $53,100,260,000",
       "link": "https://www.nasdaq.com/market-activity/stocks/adsk/earnings"
     },
     {
@@ -486,7 +486,7 @@
       "title": "Workday, Inc. (WDAY) Earnings Call",
       "category": "earnings",
       "date": "2026-08-27",
-      "description": "Reports after market close. EPS forecast: $1.26 | Market cap: $50,993,150,000",
+      "description": "Reports after market close. EPS forecast: $1.26 | Market cap: $49,073,960,000",
       "link": "https://www.nasdaq.com/market-activity/stocks/wday/earnings"
     },
     {
@@ -494,7 +494,7 @@
       "title": "Dollar General Corporation (DG) Earnings Call",
       "category": "earnings",
       "date": "2026-08-27",
-      "description": "Reports before market open. EPS forecast: $2 | Market cap: $26,929,217,866",
+      "description": "Reports before market open. EPS forecast: $2 | Market cap: $27,193,921,842",
       "link": "https://www.nasdaq.com/market-activity/stocks/dg/earnings"
     },
     {
@@ -502,7 +502,7 @@
       "title": "Affirm Holdings, Inc. (AFRM) Earnings Call",
       "category": "earnings",
       "date": "2026-08-27",
-      "description": "Reports after market close. EPS forecast: $0.33 | Market cap: $26,229,255,611",
+      "description": "Reports after market close. EPS forecast: $0.33 | Market cap: $26,239,302,568",
       "link": "https://www.nasdaq.com/market-activity/stocks/afrm/earnings"
     },
     {
@@ -510,31 +510,31 @@
       "title": "Dollar Tree, Inc. (DLTR) Earnings Call",
       "category": "earnings",
       "date": "2026-08-27",
-      "description": "Reports before market open. EPS forecast: $1.11 | Market cap: $24,892,374,384",
+      "description": "Reports before market open. EPS forecast: $1.11 | Market cap: $24,865,469,941",
       "link": "https://www.nasdaq.com/market-activity/stocks/dltr/earnings"
-    },
-    {
-      "id": "earn-BURL-2026-08-27",
-      "title": "Burlington Stores, Inc. (BURL) Earnings Call",
-      "category": "earnings",
-      "date": "2026-08-27",
-      "description": "Reports time TBD. EPS forecast: $2.17 | Market cap: $22,364,624,636",
-      "link": "https://www.nasdaq.com/market-activity/stocks/burl/earnings"
     },
     {
       "id": "earn-ULTA-2026-08-27",
       "title": "Ulta Beauty, Inc. (ULTA) Earnings Call",
       "category": "earnings",
       "date": "2026-08-27",
-      "description": "Reports after market close. EPS forecast: $6.17 | Market cap: $22,163,999,072",
+      "description": "Reports after market close. EPS forecast: $6.17 | Market cap: $21,956,790,593",
       "link": "https://www.nasdaq.com/market-activity/stocks/ulta/earnings"
+    },
+    {
+      "id": "earn-BURL-2026-08-27",
+      "title": "Burlington Stores, Inc. (BURL) Earnings Call",
+      "category": "earnings",
+      "date": "2026-08-27",
+      "description": "Reports before market open. EPS forecast: $2.17 | Market cap: $21,883,116,760",
+      "link": "https://www.nasdaq.com/market-activity/stocks/burl/earnings"
     },
     {
       "id": "earn-RBRK-2026-08-27",
       "title": "Rubrik, Inc. (RBRK) Earnings Call",
       "category": "earnings",
       "date": "2026-08-27",
-      "description": "Reports after market close. EPS forecast: ($0.34) | Market cap: $21,630,524,001",
+      "description": "Reports after market close. EPS forecast: ($0.34) | Market cap: $21,041,854,302",
       "link": "https://www.nasdaq.com/market-activity/stocks/rbrk/earnings"
     },
     {
@@ -542,7 +542,7 @@
       "title": "Best Buy Co., Inc. (BBY) Earnings Call",
       "category": "earnings",
       "date": "2026-08-27",
-      "description": "Reports before market open. EPS forecast: $1.34 | Market cap: $17,988,974,204",
+      "description": "Reports before market open. EPS forecast: $1.34 | Market cap: $18,214,495,029",
       "link": "https://www.nasdaq.com/market-activity/stocks/bby/earnings"
     },
     {
@@ -550,7 +550,7 @@
       "title": "IREN Limited (IREN) Earnings Call",
       "category": "earnings",
       "date": "2026-08-27",
-      "description": "Reports time TBD. EPS forecast: ($0.80) | Market cap: $15,996,269,448",
+      "description": "Reports after market close. EPS forecast: ($0.80) | Market cap: $15,746,104,376",
       "link": "https://www.nasdaq.com/market-activity/stocks/iren/earnings"
     },
     {
@@ -558,7 +558,7 @@
       "title": "Hormel Foods Corporation (HRL) Earnings Call",
       "category": "earnings",
       "date": "2026-08-27",
-      "description": "Reports before market open. EPS forecast: $0.36 | Market cap: $13,449,697,598",
+      "description": "Reports before market open. EPS forecast: $0.36 | Market cap: $13,504,729,094",
       "link": "https://www.nasdaq.com/market-activity/stocks/hrl/earnings"
     },
     {
@@ -566,7 +566,7 @@
       "title": "Harmony Gold Mining Company Limited (HMY) Earnings Call",
       "category": "earnings",
       "date": "2026-08-27",
-      "description": "Reports time TBD. EPS forecast: N/A | Market cap: $12,225,626,364",
+      "description": "Reports time TBD. EPS forecast: N/A | Market cap: $12,339,884,555",
       "link": "https://www.nasdaq.com/market-activity/stocks/hmy/earnings"
     },
     {
@@ -574,7 +574,7 @@
       "title": "Ubiquiti Inc. (UI) Earnings Call",
       "category": "earnings",
       "date": "2026-08-28",
-      "description": "Reports time TBD. EPS forecast: $3.67 | Market cap: $35,284,375,555",
+      "description": "Reports time TBD. EPS forecast: $3.67 | Market cap: $34,667,050,288",
       "link": "https://www.nasdaq.com/market-activity/stocks/ui/earnings"
     },
     {
@@ -582,7 +582,7 @@
       "title": "Palo Alto Networks, Inc. (PANW) Earnings Call",
       "category": "earnings",
       "date": "2026-09-01",
-      "description": "Reports after market close. EPS forecast: $0.51 | Market cap: $322,740,000,000",
+      "description": "Reports after market close. EPS forecast: $0.51 | Market cap: $313,180,050,000",
       "link": "https://www.nasdaq.com/market-activity/stocks/panw/earnings"
     },
     {
@@ -590,7 +590,7 @@
       "title": "Medtronic plc (MDT) Earnings Call",
       "category": "earnings",
       "date": "2026-09-01",
-      "description": "Reports before market open. EPS forecast: $1.38 | Market cap: $115,946,493,310",
+      "description": "Reports before market open. EPS forecast: $1.38 | Market cap: $116,829,724,491",
       "link": "https://www.nasdaq.com/market-activity/stocks/mdt/earnings"
     },
     {
@@ -598,7 +598,7 @@
       "title": "Credo Technology Group Holding Ltd (CRDO) Earnings Call",
       "category": "earnings",
       "date": "2026-09-01",
-      "description": "Reports after market close. EPS forecast: $0.91 | Market cap: $49,601,256,089",
+      "description": "Reports after market close. EPS forecast: $0.91 | Market cap: $48,465,605,690",
       "link": "https://www.nasdaq.com/market-activity/stocks/crdo/earnings"
     },
     {
@@ -606,7 +606,7 @@
       "title": "MongoDB, Inc. (MDB) Earnings Call",
       "category": "earnings",
       "date": "2026-09-01",
-      "description": "Reports after market close. EPS forecast: $0.08 | Market cap: $37,987,194,803",
+      "description": "Reports after market close. EPS forecast: $0.08 | Market cap: $37,025,228,956",
       "link": "https://www.nasdaq.com/market-activity/stocks/mdb/earnings"
     },
     {
@@ -614,7 +614,7 @@
       "title": "NIO Inc. (NIO) Earnings Call",
       "category": "earnings",
       "date": "2026-09-01",
-      "description": "Reports time TBD. EPS forecast: ($0.07) | Market cap: $11,275,501,599",
+      "description": "Reports time TBD. EPS forecast: ($0.07) | Market cap: $11,325,614,939",
       "link": "https://www.nasdaq.com/market-activity/stocks/nio/earnings"
     },
     {
@@ -622,7 +622,7 @@
       "title": "Broadcom Inc. (AVGO) Earnings Call",
       "category": "earnings",
       "date": "2026-09-02",
-      "description": "Reports after market close. EPS forecast: $2.83 | Market cap: $1,987,812,158,328",
+      "description": "Reports after market close. EPS forecast: $2.83 | Market cap: $1,869,681,442,012",
       "link": "https://www.nasdaq.com/market-activity/stocks/avgo/earnings"
     },
     {
@@ -630,7 +630,7 @@
       "title": "Snowflake Inc. (SNOW) Earnings Call",
       "category": "earnings",
       "date": "2026-09-02",
-      "description": "Reports after market close. EPS forecast: ($0.51) | Market cap: $116,935,908,000",
+      "description": "Reports after market close. EPS forecast: ($0.51) | Market cap: $114,003,672,000",
       "link": "https://www.nasdaq.com/market-activity/stocks/snow/earnings"
     },
     {
@@ -638,7 +638,7 @@
       "title": "Hewlett Packard Enterprise Company (HPE) Earnings Call",
       "category": "earnings",
       "date": "2026-09-02",
-      "description": "Reports after market close. EPS forecast: $0.81 | Market cap: $79,213,854,626",
+      "description": "Reports after market close. EPS forecast: $0.81 | Market cap: $77,743,988,718",
       "link": "https://www.nasdaq.com/market-activity/stocks/hpe/earnings"
     },
     {
@@ -646,7 +646,7 @@
       "title": "NetApp, Inc. (NTAP) Earnings Call",
       "category": "earnings",
       "date": "2026-09-02",
-      "description": "Reports after market close. EPS forecast: $1.70 | Market cap: $40,226,061,982",
+      "description": "Reports after market close. EPS forecast: $1.70 | Market cap: $40,636,191,596",
       "link": "https://www.nasdaq.com/market-activity/stocks/ntap/earnings"
     },
     {
@@ -654,7 +654,7 @@
       "title": "Brown Forman Corporation (BF.A) Earnings Call",
       "category": "earnings",
       "date": "2026-09-02",
-      "description": "Reports before market open. EPS forecast: N/A | Market cap: $13,100,574,766",
+      "description": "Reports before market open. EPS forecast: N/A | Market cap: $13,261,177,259",
       "link": "https://www.nasdaq.com/market-activity/stocks/bf.a/earnings"
     },
     {
@@ -662,7 +662,7 @@
       "title": "Brown Forman Corporation (BF.B) Earnings Call",
       "category": "earnings",
       "date": "2026-09-02",
-      "description": "Reports before market open. EPS forecast: $0.38 | Market cap: $13,100,574,766",
+      "description": "Reports before market open. EPS forecast: $0.38 | Market cap: $13,261,177,259",
       "link": "https://www.nasdaq.com/market-activity/stocks/bf.b/earnings"
     },
     {
@@ -670,7 +670,7 @@
       "title": "Dell Technologies Inc. (DELL) Earnings Call",
       "category": "earnings",
       "date": "2026-09-03",
-      "description": "Reports after market close. EPS forecast: $4.63 | Market cap: $320,495,882,629",
+      "description": "Reports after market close. EPS forecast: $4.63 | Market cap: $318,097,883,063",
       "link": "https://www.nasdaq.com/market-activity/stocks/dell/earnings"
     },
     {
@@ -678,7 +678,7 @@
       "title": "Ciena Corporation (CIEN) Earnings Call",
       "category": "earnings",
       "date": "2026-09-03",
-      "description": "Reports before market open. EPS forecast: $1.45 | Market cap: $62,678,218,332",
+      "description": "Reports before market open. EPS forecast: $1.45 | Market cap: $60,693,646,366",
       "link": "https://www.nasdaq.com/market-activity/stocks/cien/earnings"
     },
     {
@@ -686,7 +686,7 @@
       "title": "Zscaler, Inc. (ZS) Earnings Call",
       "category": "earnings",
       "date": "2026-09-03",
-      "description": "Reports after market close. EPS forecast: $0.06 | Market cap: $30,430,498,415",
+      "description": "Reports after market close. EPS forecast: $0.06 | Market cap: $29,689,868,790",
       "link": "https://www.nasdaq.com/market-activity/stocks/zs/earnings"
     },
     {
@@ -694,7 +694,7 @@
       "title": "Copart, Inc. (CPRT) Earnings Call",
       "category": "earnings",
       "date": "2026-09-03",
-      "description": "Reports time TBD. EPS forecast: $0.39 | Market cap: $27,209,599,456",
+      "description": "Reports time TBD. EPS forecast: $0.39 | Market cap: $29,264,900,946",
       "link": "https://www.nasdaq.com/market-activity/stocks/cprt/earnings"
     },
     {
@@ -702,7 +702,7 @@
       "title": "Samsara Inc. (IOT) Earnings Call",
       "category": "earnings",
       "date": "2026-09-03",
-      "description": "Reports after market close. EPS forecast: $0.02 | Market cap: $23,972,692,773",
+      "description": "Reports after market close. EPS forecast: $0.02 | Market cap: $23,186,034,163",
       "link": "https://www.nasdaq.com/market-activity/stocks/iot/earnings"
     },
     {
@@ -710,7 +710,7 @@
       "title": "Guidewire Software, Inc. (GWRE) Earnings Call",
       "category": "earnings",
       "date": "2026-09-03",
-      "description": "Reports time TBD. EPS forecast: $0.49 | Market cap: $15,204,277,194",
+      "description": "Reports time TBD. EPS forecast: $0.49 | Market cap: $14,618,984,955",
       "link": "https://www.nasdaq.com/market-activity/stocks/gwre/earnings"
     },
     {
@@ -718,7 +718,7 @@
       "title": "lululemon athletica inc. (LULU) Earnings Call",
       "category": "earnings",
       "date": "2026-09-03",
-      "description": "Reports time TBD. EPS forecast: $1.79 | Market cap: $12,964,842,139",
+      "description": "Reports time TBD. EPS forecast: $1.79 | Market cap: $12,963,757,759",
       "link": "https://www.nasdaq.com/market-activity/stocks/lulu/earnings"
     },
     {
@@ -726,7 +726,7 @@
       "title": "DocuSign, Inc. (DOCU) Earnings Call",
       "category": "earnings",
       "date": "2026-09-03",
-      "description": "Reports time TBD. EPS forecast: $0.44 | Market cap: $12,237,639,927",
+      "description": "Reports after market close. EPS forecast: $0.44 | Market cap: $11,846,203,480",
       "link": "https://www.nasdaq.com/market-activity/stocks/docu/earnings"
     },
     {
@@ -734,7 +734,7 @@
       "title": "Oracle Corporation (ORCL) Earnings Call",
       "category": "earnings",
       "date": "2026-09-08",
-      "description": "Reports time TBD. EPS forecast: $1.39 | Market cap: $449,987,179,620",
+      "description": "Reports time TBD. EPS forecast: $1.39 | Market cap: $433,568,494,920",
       "link": "https://www.nasdaq.com/market-activity/stocks/orcl/earnings"
     },
     {
@@ -742,7 +742,7 @@
       "title": "SailPoint, Inc. (SAIL) Earnings Call",
       "category": "earnings",
       "date": "2026-09-08",
-      "description": "Reports time TBD. EPS forecast: $0.08 | Market cap: $11,337,988,110",
+      "description": "Reports time TBD. EPS forecast: $0.08 | Market cap: $11,077,083,931",
       "link": "https://www.nasdaq.com/market-activity/stocks/sail/earnings"
     },
     {
@@ -750,7 +750,7 @@
       "title": "The Cooper Companies, Inc.  (COO) Earnings Call",
       "category": "earnings",
       "date": "2026-09-09",
-      "description": "Reports after market close. EPS forecast: $1.11 | Market cap: $14,939,346,258",
+      "description": "Reports after market close. EPS forecast: $1.11 | Market cap: $14,855,483,087",
       "link": "https://www.nasdaq.com/market-activity/stocks/coo/earnings"
     },
     {
@@ -774,7 +774,7 @@
       "title": "Caseys General Stores, Inc. (CASY) Earnings Call",
       "category": "earnings",
       "date": "2026-09-14",
-      "description": "Reports time TBD. EPS forecast: $6.58 | Market cap: $31,594,055,475",
+      "description": "Reports time TBD. EPS forecast: $6.58 | Market cap: $31,322,809,455",
       "link": "https://www.nasdaq.com/market-activity/stocks/casy/earnings"
     },
     {
@@ -782,7 +782,7 @@
       "title": "Abivax SA (ABVX) Earnings Call",
       "category": "earnings",
       "date": "2026-09-14",
-      "description": "Reports time TBD. EPS forecast: ($1.08) | Market cap: $10,456,181,276",
+      "description": "Reports time TBD. EPS forecast: ($1.08) | Market cap: $10,241,805,884",
       "link": "https://www.nasdaq.com/market-activity/stocks/abvx/earnings"
     },
     {
@@ -790,7 +790,7 @@
       "title": "General Mills, Inc. (GIS) Earnings Call",
       "category": "earnings",
       "date": "2026-09-16",
-      "description": "Reports time TBD. EPS forecast: $0.73 | Market cap: $20,766,593,688",
+      "description": "Reports time TBD. EPS forecast: $0.73 | Market cap: $20,957,475,302",
       "link": "https://www.nasdaq.com/market-activity/stocks/gis/earnings"
     },
     {
@@ -798,7 +798,7 @@
       "title": "Darden Restaurants, Inc. (DRI) Earnings Call",
       "category": "earnings",
       "date": "2026-09-17",
-      "description": "Reports time TBD. EPS forecast: $2.07 | Market cap: $25,496,426,072",
+      "description": "Reports time TBD. EPS forecast: $2.07 | Market cap: $25,697,203,297",
       "link": "https://www.nasdaq.com/market-activity/stocks/dri/earnings"
     },
     {
@@ -806,7 +806,7 @@
       "title": "Lennar Corporation (LEN) Earnings Call",
       "category": "earnings",
       "date": "2026-09-17",
-      "description": "Reports time TBD. EPS forecast: $1.31 | Market cap: $21,087,960,731",
+      "description": "Reports time TBD. EPS forecast: $1.31 | Market cap: $20,916,925,180",
       "link": "https://www.nasdaq.com/market-activity/stocks/len/earnings"
     },
     {
@@ -814,7 +814,7 @@
       "title": "Lennar Corporation (LEN.B) Earnings Call",
       "category": "earnings",
       "date": "2026-09-17",
-      "description": "Reports time TBD. EPS forecast: N/A | Market cap: $21,087,960,731",
+      "description": "Reports time TBD. EPS forecast: N/A | Market cap: $20,916,925,180",
       "link": "https://www.nasdaq.com/market-activity/stocks/len.b/earnings"
     },
     {
@@ -822,7 +822,7 @@
       "title": "FactSet Research Systems Inc. (FDS) Earnings Call",
       "category": "earnings",
       "date": "2026-09-17",
-      "description": "Reports time TBD. EPS forecast: $4.30 | Market cap: $10,213,712,639",
+      "description": "Reports time TBD. EPS forecast: $4.30 | Market cap: $10,082,475,785",
       "link": "https://www.nasdaq.com/market-activity/stocks/fds/earnings"
     },
     {
@@ -830,7 +830,7 @@
       "title": "Korea Electric Power Corporation (KEP) Earnings Call",
       "category": "earnings",
       "date": "2026-09-21",
-      "description": "Reports time TBD. EPS forecast: $0.33 | Market cap: $14,778,013,053",
+      "description": "Reports time TBD. EPS forecast: $0.33 | Market cap: $15,111,834,373",
       "link": "https://www.nasdaq.com/market-activity/stocks/kep/earnings"
     },
     {
@@ -838,7 +838,7 @@
       "title": "Micron Technology, Inc. (MU) Earnings Call",
       "category": "earnings",
       "date": "2026-09-22",
-      "description": "Reports time TBD. EPS forecast: $31.17 | Market cap: $1,072,731,496,614",
+      "description": "Reports time TBD. EPS forecast: $31.17 | Market cap: $1,097,386,149,101",
       "link": "https://www.nasdaq.com/market-activity/stocks/mu/earnings"
     },
     {
@@ -846,7 +846,7 @@
       "title": "AutoZone, Inc. (AZO) Earnings Call",
       "category": "earnings",
       "date": "2026-09-22",
-      "description": "Reports time TBD. EPS forecast: $55.08 | Market cap: $49,635,119,581",
+      "description": "Reports time TBD. EPS forecast: $55.08 | Market cap: $49,384,198,875",
       "link": "https://www.nasdaq.com/market-activity/stocks/azo/earnings"
     },
     {
@@ -854,7 +854,7 @@
       "title": "Cintas Corporation (CTAS) Earnings Call",
       "category": "earnings",
       "date": "2026-09-23",
-      "description": "Reports time TBD. EPS forecast: $1.35 | Market cap: $80,314,030,893",
+      "description": "Reports time TBD. EPS forecast: $1.35 | Market cap: $79,841,830,811",
       "link": "https://www.nasdaq.com/market-activity/stocks/ctas/earnings"
     },
     {
@@ -894,7 +894,7 @@
       "title": "Nike, Inc. (NKE) Earnings Call",
       "category": "earnings",
       "date": "2026-09-29",
-      "description": "Reports time TBD. EPS forecast: $0.44 | Market cap: $61,164,651,525",
+      "description": "Reports time TBD. EPS forecast: $0.44 | Market cap: $60,422,902,173",
       "link": "https://www.nasdaq.com/market-activity/stocks/nke/earnings"
     },
     {
@@ -902,7 +902,7 @@
       "title": "Paychex, Inc. (PAYX) Earnings Call",
       "category": "earnings",
       "date": "2026-09-29",
-      "description": "Reports time TBD. EPS forecast: $1.33 | Market cap: $44,602,630,644",
+      "description": "Reports time TBD. EPS forecast: $1.33 | Market cap: $43,400,422,577",
       "link": "https://www.nasdaq.com/market-activity/stocks/payx/earnings"
     },
     {
@@ -910,7 +910,7 @@
       "title": "Carnival Corporation Ltd. (CCL) Earnings Call",
       "category": "earnings",
       "date": "2026-10-05",
-      "description": "Reports time TBD. EPS forecast: $1.36 | Market cap: $38,925,427,962",
+      "description": "Reports time TBD. EPS forecast: $1.36 | Market cap: $38,514,533,226",
       "link": "https://www.nasdaq.com/market-activity/stocks/ccl/earnings"
     },
     {
@@ -918,7 +918,7 @@
       "title": "Constellation Brands Inc (STZ) Earnings Call",
       "category": "earnings",
       "date": "2026-10-05",
-      "description": "Reports time TBD. EPS forecast: $3.63 | Market cap: $23,285,639,476",
+      "description": "Reports time TBD. EPS forecast: $3.63 | Market cap: $23,768,942,444",
       "link": "https://www.nasdaq.com/market-activity/stocks/stz/earnings"
     },
     {
@@ -926,7 +926,7 @@
       "title": "Jefferies Financial Group Inc. (JEF) Earnings Call",
       "category": "earnings",
       "date": "2026-10-05",
-      "description": "Reports time TBD. EPS forecast: $0.87 | Market cap: $10,822,466,663",
+      "description": "Reports time TBD. EPS forecast: $0.87 | Market cap: $10,682,971,927",
       "link": "https://www.nasdaq.com/market-activity/stocks/jef/earnings"
     },
     {
@@ -934,7 +934,7 @@
       "title": "McCormick & Company, Incorporated (MKC) Earnings Call",
       "category": "earnings",
       "date": "2026-10-06",
-      "description": "Reports time TBD. EPS forecast: $0.75 | Market cap: $14,638,967,006",
+      "description": "Reports time TBD. EPS forecast: $0.75 | Market cap: $14,698,114,348",
       "link": "https://www.nasdaq.com/market-activity/stocks/mkc/earnings"
     },
     {
@@ -942,7 +942,7 @@
       "title": "McCormick & Company, Incorporated (MKC.V) Earnings Call",
       "category": "earnings",
       "date": "2026-10-06",
-      "description": "Reports time TBD. EPS forecast: N/A | Market cap: $14,638,967,006",
+      "description": "Reports time TBD. EPS forecast: N/A | Market cap: $14,698,114,348",
       "link": "https://www.nasdaq.com/market-activity/stocks/mkc.v/earnings"
     },
     {
@@ -950,7 +950,7 @@
       "title": "RPM International Inc. (RPM) Earnings Call",
       "category": "earnings",
       "date": "2026-10-07",
-      "description": "Reports time TBD. EPS forecast: $1.96 | Market cap: $14,476,934,222",
+      "description": "Reports time TBD. EPS forecast: $1.96 | Market cap: $14,539,527,514",
       "link": "https://www.nasdaq.com/market-activity/stocks/rpm/earnings"
     },
     {
@@ -958,7 +958,7 @@
       "title": "Acuity Inc. (AYI) Earnings Call",
       "category": "earnings",
       "date": "2026-10-07",
-      "description": "Reports time TBD. EPS forecast: $5.26 | Market cap: $10,769,911,744",
+      "description": "Reports time TBD. EPS forecast: $5.26 | Market cap: $10,729,798,111",
       "link": "https://www.nasdaq.com/market-activity/stocks/ayi/earnings"
     },
     {
@@ -966,7 +966,7 @@
       "title": "Pepsico, Inc. (PEP) Earnings Call",
       "category": "earnings",
       "date": "2026-10-08",
-      "description": "Reports time TBD. EPS forecast: $2.31 | Market cap: $191,931,050,886",
+      "description": "Reports time TBD. EPS forecast: $2.31 | Market cap: $192,163,082,451",
       "link": "https://www.nasdaq.com/market-activity/stocks/pep/earnings"
     },
     {
@@ -974,7 +974,7 @@
       "title": "Delta Air Lines, Inc. (DAL) Earnings Call",
       "category": "earnings",
       "date": "2026-10-08",
-      "description": "Reports time TBD. EPS forecast: $2.19 | Market cap: $60,047,558,869",
+      "description": "Reports time TBD. EPS forecast: $2.19 | Market cap: $58,758,617,731",
       "link": "https://www.nasdaq.com/market-activity/stocks/dal/earnings"
     }
   ]
