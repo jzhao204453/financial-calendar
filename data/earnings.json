@@ -1,22 +1,6 @@
 {
-  "generatedAt": "2026-08-21T15:07:35.448Z",
+  "generatedAt": "2026-08-22T14:01:41.746Z",
   "events": [
-    {
-      "id": "earn-BEKE-2026-08-21",
-      "title": "KE Holdings Inc (BEKE) Earnings Call",
-      "category": "earnings",
-      "date": "2026-08-21",
-      "description": "Reports before market open. EPS forecast: $0.25 | Market cap: $19,195,980,139",
-      "link": "https://www.nasdaq.com/market-activity/stocks/beke/earnings"
-    },
-    {
-      "id": "earn-BJ-2026-08-21",
-      "title": "BJ's Wholesale Club Holdings, Inc. (BJ) Earnings Call",
-      "category": "earnings",
-      "date": "2026-08-21",
-      "description": "Reports before market open. EPS forecast: $1.16 | Market cap: $11,658,461,013",
-      "link": "https://www.nasdaq.com/market-activity/stocks/bj/earnings"
-    },
     {
       "id": "earn-PDD-2026-08-24",
       "title": "PDD Holdings Inc. (PDD) Earnings Call",
