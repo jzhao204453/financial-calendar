@@ -1,14 +1,6 @@
 {
-  "generatedAt": "2026-10-06T18:58:24.675Z",
+  "generatedAt": "2026-10-07T19:23:20.233Z",
   "events": [
-    {
-      "id": "treasury-91282CRF0",
-      "title": "US Treasury 10-Year Note Auction",
-      "category": "treasury",
-      "date": "2026-10-07",
-      "description": "Term: 9-Year 10-Month. Issue/settlement date: 2026-10-15. CUSIP: 91282CRF0.",
-      "link": "https://www.treasurydirect.gov/auctions/upcoming/"
-    },
     {
       "id": "treasury-912810UW6",
       "title": "US Treasury 30-Year Bond Auction",
