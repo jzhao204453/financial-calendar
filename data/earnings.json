@@ -1,62 +1,6 @@
 {
-  "generatedAt": "2026-10-23T17:55:43.609Z",
+  "generatedAt": "2026-10-24T16:36:47.059Z",
   "events": [
-    {
-      "id": "earn-AXP-2026-10-23",
-      "title": "American Express Company (AXP) Earnings Call",
-      "category": "earnings",
-      "date": "2026-10-23",
-      "description": "Reports before market open. EPS forecast: $4.47 | Market cap: $219,590,492,000",
-      "link": "https://www.nasdaq.com/market-activity/stocks/axp/earnings"
-    },
-    {
-      "id": "earn-E-2026-10-23",
-      "title": "ENI S.p.A. (E) Earnings Call",
-      "category": "earnings",
-      "date": "2026-10-23",
-      "description": "Reports before market open. EPS forecast: $1.92 | Market cap: $93,663,461,000",
-      "link": "https://www.nasdaq.com/market-activity/stocks/e/earnings"
-    },
-    {
-      "id": "earn-SLB-2026-10-23",
-      "title": "SLB Limited (SLB) Earnings Call",
-      "category": "earnings",
-      "date": "2026-10-23",
-      "description": "Reports before market open. EPS forecast: $0.62 | Market cap: $73,539,297,000",
-      "link": "https://www.nasdaq.com/market-activity/stocks/slb/earnings"
-    },
-    {
-      "id": "earn-INFY-2026-10-23",
-      "title": "Infosys Limited (INFY) Earnings Call",
-      "category": "earnings",
-      "date": "2026-10-23",
-      "description": "Reports before market open. EPS forecast: $0.21 | Market cap: $53,625,082,000",
-      "link": "https://www.nasdaq.com/market-activity/stocks/infy/earnings"
-    },
-    {
-      "id": "earn-FCNCA-2026-10-23",
-      "title": "First Citizens BancShares, Inc. (FCNCA) Earnings Call",
-      "category": "earnings",
-      "date": "2026-10-23",
-      "description": "Reports before market open. EPS forecast: $46.61 | Market cap: $24,808,273,900",
-      "link": "https://www.nasdaq.com/market-activity/stocks/fcnca/earnings"
-    },
-    {
-      "id": "earn-RCI-2026-10-23",
-      "title": "Rogers Communication, Inc. (RCI) Earnings Call",
-      "category": "earnings",
-      "date": "2026-10-23",
-      "description": "Reports before market open. EPS forecast: $0.85 | Market cap: $17,872,898,000",
-      "link": "https://www.nasdaq.com/market-activity/stocks/rci/earnings"
-    },
-    {
-      "id": "earn-RDY-2026-10-23",
-      "title": "Dr. Reddy's Laboratories Ltd (RDY) Earnings Call",
-      "category": "earnings",
-      "date": "2026-10-23",
-      "description": "Reports time TBD. EPS forecast: $0.16 | Market cap: $11,042,511,900",
-      "link": "https://www.nasdaq.com/market-activity/stocks/rdy/earnings"
-    },
     {
       "id": "earn-VZ-2026-10-26",
       "title": "Verizon Communications Inc. (VZ) Earnings Call",
