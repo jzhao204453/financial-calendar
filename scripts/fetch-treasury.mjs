@@ -29,7 +29,10 @@ async function main() {
 
   const events = rows
     .map((r) => ({ row: r, label: labelFor(r.securityTerm) }))
-    .filter((x) => x.label)
+    // Some rows are announced (have issueDate/announcementDate) before
+    // TreasuryDirect has set an auctionDate -- skip those for now, they'll
+    // show up once the field is populated on a later daily run.
+    .filter((x) => x.label && x.row.auctionDate)
     .map(({ row: r, label }) => {
       const dateISO = r.auctionDate.slice(0, 10);
       return {
@@ -37,7 +40,7 @@ async function main() {
         title: `US Treasury ${label} Auction`,
         category: "treasury",
         date: dateISO,
-        description: `Term: ${r.securityTerm}. Issue/settlement date: ${r.issueDate.slice(0, 10)}. CUSIP: ${r.cusip}.`,
+        description: `Term: ${r.securityTerm}. Issue/settlement date: ${r.issueDate ? r.issueDate.slice(0, 10) : "TBD"}. CUSIP: ${r.cusip}.`,
         link: "https://www.treasurydirect.gov/auctions/upcoming/",
       };
     });
