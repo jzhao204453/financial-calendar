@@ -1,22 +1,6 @@
 {
-  "generatedAt": "2026-11-07T18:05:24.376Z",
+  "generatedAt": "2026-11-08T18:23:38.447Z",
   "events": [
-    {
-      "id": "earn-BRK.A-2026-11-07",
-      "title": "Berkshire Hathaway Inc. (BRK.A) Earnings Call",
-      "category": "earnings",
-      "date": "2026-11-07",
-      "description": "Reports before market open. EPS forecast: N/A | Market cap: $1,230,600,670,000",
-      "link": "https://www.nasdaq.com/market-activity/stocks/brk.a/earnings"
-    },
-    {
-      "id": "earn-BRK.B-2026-11-07",
-      "title": "Berkshire Hathaway Inc. (BRK.B) Earnings Call",
-      "category": "earnings",
-      "date": "2026-11-07",
-      "description": "Reports before market open. EPS forecast: $5.91 | Market cap: $1,230,600,670,000",
-      "link": "https://www.nasdaq.com/market-activity/stocks/brk.b/earnings"
-    },
     {
       "id": "earn-KKR-2026-11-09",
       "title": "KKR & Co. Inc. (KKR) Earnings Call",
