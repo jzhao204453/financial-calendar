@@ -1,54 +1,6 @@
 {
-  "generatedAt": "2026-11-13T20:32:06.670Z",
+  "generatedAt": "2026-11-14T18:48:02.532Z",
   "events": [
-    {
-      "id": "earn-MUFG-2026-11-13",
-      "title": "Mitsubishi UFJ Financial Group Inc (MUFG) Earnings Call",
-      "category": "earnings",
-      "date": "2026-11-13",
-      "description": "Reports time TBD. EPS forecast: $0.45 | Market cap: $258,122,711,000",
-      "link": "https://www.nasdaq.com/market-activity/stocks/mufg/earnings"
-    },
-    {
-      "id": "earn-SMFG-2026-11-13",
-      "title": "Sumitomo Mitsui Financial Group Inc (SMFG) Earnings Call",
-      "category": "earnings",
-      "date": "2026-11-13",
-      "description": "Reports before market open. EPS forecast: $0.24 | Market cap: $155,527,037,000",
-      "link": "https://www.nasdaq.com/market-activity/stocks/smfg/earnings"
-    },
-    {
-      "id": "earn-MFG-2026-11-13",
-      "title": "Mizuho Financial Group, Inc. (MFG) Earnings Call",
-      "category": "earnings",
-      "date": "2026-11-13",
-      "description": "Reports before market open. EPS forecast: $0.21 | Market cap: $125,986,341,000",
-      "link": "https://www.nasdaq.com/market-activity/stocks/mfg/earnings"
-    },
-    {
-      "id": "earn-KB-2026-11-13",
-      "title": "KB Financial Group Inc (KB) Earnings Call",
-      "category": "earnings",
-      "date": "2026-11-13",
-      "description": "Reports time TBD. EPS forecast: $3.94 | Market cap: $40,218,042,000",
-      "link": "https://www.nasdaq.com/market-activity/stocks/kb/earnings"
-    },
-    {
-      "id": "earn-WF-2026-11-13",
-      "title": "Woori Bank (WF) Earnings Call",
-      "category": "earnings",
-      "date": "2026-11-13",
-      "description": "Reports time TBD. EPS forecast: N/A | Market cap: $17,152,391,200",
-      "link": "https://www.nasdaq.com/market-activity/stocks/wf/earnings"
-    },
-    {
-      "id": "earn-FRHC-2026-11-13",
-      "title": "Freedom Holding Corp. (FRHC) Earnings Call",
-      "category": "earnings",
-      "date": "2026-11-13",
-      "description": "Reports time TBD. EPS forecast: N/A | Market cap: $10,079,088,600",
-      "link": "https://www.nasdaq.com/market-activity/stocks/frhc/earnings"
-    },
     {
       "id": "earn-TCOM-2026-11-16",
       "title": "Trip.com Group Limited (TCOM) Earnings Call",
