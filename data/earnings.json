@@ -1,14 +1,6 @@
 {
-  "generatedAt": "2026-11-25T22:24:53.949Z",
+  "generatedAt": "2026-11-26T22:19:08.279Z",
   "events": [
-    {
-      "id": "earn-LI-2026-11-25",
-      "title": "Li Auto Inc. (LI) Earnings Call",
-      "category": "earnings",
-      "date": "2026-11-25",
-      "description": "Reports before market open. EPS forecast: ($0.08) | Market cap: $10,456,837,100",
-      "link": "https://www.nasdaq.com/market-activity/stocks/li/earnings"
-    },
     {
       "id": "earn-RBRK-2026-11-30",
       "title": "Rubrik, Inc. (RBRK) Earnings Call",
@@ -102,7 +94,7 @@
       "title": "Bank of Nova Scotia (The) (BNS) Earnings Call",
       "category": "earnings",
       "date": "2026-12-02",
-      "description": "Reports before market open. EPS forecast: $1.55 | Market cap: $104,282,898,000",
+      "description": "Reports before market open. EPS forecast: $1.54 | Market cap: $104,282,898,000",
       "link": "https://www.nasdaq.com/market-activity/stocks/bns/earnings"
     },
     {
@@ -134,7 +126,7 @@
       "title": "Royal Bank Of Canada (RY) Earnings Call",
       "category": "earnings",
       "date": "2026-12-03",
-      "description": "Reports before market open. EPS forecast: $2.93 | Market cap: $261,535,613,000",
+      "description": "Reports before market open. EPS forecast: $2.94 | Market cap: $261,535,613,000",
       "link": "https://www.nasdaq.com/market-activity/stocks/ry/earnings"
     },
     {
@@ -142,7 +134,7 @@
       "title": "Toronto Dominion Bank (The) (TD) Earnings Call",
       "category": "earnings",
       "date": "2026-12-03",
-      "description": "Reports before market open. EPS forecast: $1.77 | Market cap: $188,859,302,000",
+      "description": "Reports before market open. EPS forecast: $1.76 | Market cap: $188,859,302,000",
       "link": "https://www.nasdaq.com/market-activity/stocks/td/earnings"
     },
     {
@@ -182,7 +174,7 @@
       "title": "Ulta Beauty, Inc. (ULTA) Earnings Call",
       "category": "earnings",
       "date": "2026-12-03",
-      "description": "Reports after market close. EPS forecast: $5.62 | Market cap: $27,407,538,200",
+      "description": "Reports after market close. EPS forecast: $5.64 | Market cap: $27,407,538,200",
       "link": "https://www.nasdaq.com/market-activity/stocks/ulta/earnings"
     },
     {
@@ -278,7 +270,7 @@
       "title": "Caseys General Stores, Inc. (CASY) Earnings Call",
       "category": "earnings",
       "date": "2026-12-08",
-      "description": "Reports after market close. EPS forecast: $6.01 | Market cap: $25,392,373,800",
+      "description": "Reports after market close. EPS forecast: $5.92 | Market cap: $25,392,373,800",
       "link": "https://www.nasdaq.com/market-activity/stocks/casy/earnings"
     },
     {
@@ -696,6 +688,126 @@
       "date": "2027-01-19",
       "description": "Reports time TBD. EPS forecast: $3.42 | Market cap: $10,067,986,400",
       "link": "https://www.nasdaq.com/market-activity/stocks/wtfc/earnings"
+    },
+    {
+      "id": "earn-JNJ-2027-01-20",
+      "title": "Johnson & Johnson (JNJ) Earnings Call",
+      "category": "earnings",
+      "date": "2027-01-20",
+      "description": "Reports time TBD. EPS forecast: $2.91 | Market cap: $665,525,030,000",
+      "link": "https://www.nasdaq.com/market-activity/stocks/jnj/earnings"
+    },
+    {
+      "id": "earn-SCHW-2027-01-20",
+      "title": "The Charles Schwab Corporation (SCHW) Earnings Call",
+      "category": "earnings",
+      "date": "2027-01-20",
+      "description": "Reports time TBD. EPS forecast: $1.72 | Market cap: $162,089,386,000",
+      "link": "https://www.nasdaq.com/market-activity/stocks/schw/earnings"
+    },
+    {
+      "id": "earn-PLD-2027-01-20",
+      "title": "Prologis, Inc. (PLD) Earnings Call",
+      "category": "earnings",
+      "date": "2027-01-20",
+      "description": "Reports time TBD. EPS forecast: $1.55 | Market cap: $121,019,318,000",
+      "link": "https://www.nasdaq.com/market-activity/stocks/pld/earnings"
+    },
+    {
+      "id": "earn-TRV-2027-01-20",
+      "title": "The Travelers Companies, Inc. (TRV) Earnings Call",
+      "category": "earnings",
+      "date": "2027-01-20",
+      "description": "Reports time TBD. EPS forecast: $9.73 | Market cap: $82,156,839,000",
+      "link": "https://www.nasdaq.com/market-activity/stocks/trv/earnings"
+    },
+    {
+      "id": "earn-KMI-2027-01-20",
+      "title": "Kinder Morgan, Inc. (KMI) Earnings Call",
+      "category": "earnings",
+      "date": "2027-01-20",
+      "description": "Reports time TBD. EPS forecast: $0.37 | Market cap: $69,237,391,000",
+      "link": "https://www.nasdaq.com/market-activity/stocks/kmi/earnings"
+    },
+    {
+      "id": "earn-TEL-2027-01-20",
+      "title": "TE Connectivity plc (TEL) Earnings Call",
+      "category": "earnings",
+      "date": "2027-01-20",
+      "description": "Reports time TBD. EPS forecast: $3.30 | Market cap: $59,836,133,000",
+      "link": "https://www.nasdaq.com/market-activity/stocks/tel/earnings"
+    },
+    {
+      "id": "earn-TFC-2027-01-20",
+      "title": "Truist Financial Corporation (TFC) Earnings Call",
+      "category": "earnings",
+      "date": "2027-01-20",
+      "description": "Reports time TBD. EPS forecast: $1.22 | Market cap: $56,904,229,000",
+      "link": "https://www.nasdaq.com/market-activity/stocks/tfc/earnings"
+    },
+    {
+      "id": "earn-TDY-2027-01-20",
+      "title": "Teledyne Technologies Incorporated (TDY) Earnings Call",
+      "category": "earnings",
+      "date": "2027-01-20",
+      "description": "Reports time TBD. EPS forecast: $6.76 | Market cap: $28,646,160,400",
+      "link": "https://www.nasdaq.com/market-activity/stocks/tdy/earnings"
+    },
+    {
+      "id": "earn-CFG-2027-01-20",
+      "title": "Citizens Financial Group, Inc. (CFG) Earnings Call",
+      "category": "earnings",
+      "date": "2027-01-20",
+      "description": "Reports time TBD. EPS forecast: $1.48 | Market cap: $25,642,160,100",
+      "link": "https://www.nasdaq.com/market-activity/stocks/cfg/earnings"
+    },
+    {
+      "id": "earn-HAL-2027-01-20",
+      "title": "Halliburton Company (HAL) Earnings Call",
+      "category": "earnings",
+      "date": "2027-01-20",
+      "description": "Reports time TBD. EPS forecast: $0.63 | Market cap: $25,558,204,400",
+      "link": "https://www.nasdaq.com/market-activity/stocks/hal/earnings"
+    },
+    {
+      "id": "earn-PNFP-2027-01-20",
+      "title": "Pinnacle Financial Partners, Inc. (PNFP) Earnings Call",
+      "category": "earnings",
+      "date": "2027-01-20",
+      "description": "Reports time TBD. EPS forecast: $2.71 | Market cap: $14,475,931,600",
+      "link": "https://www.nasdaq.com/market-activity/stocks/pnfp/earnings"
+    },
+    {
+      "id": "earn-CACI-2027-01-20",
+      "title": "CACI International, Inc. (CACI) Earnings Call",
+      "category": "earnings",
+      "date": "2027-01-20",
+      "description": "Reports time TBD. EPS forecast: $7.15 | Market cap: $13,391,960,100",
+      "link": "https://www.nasdaq.com/market-activity/stocks/caci/earnings"
+    },
+    {
+      "id": "earn-RDY-2027-01-20",
+      "title": "Dr. Reddy's Laboratories Ltd (RDY) Earnings Call",
+      "category": "earnings",
+      "date": "2027-01-20",
+      "description": "Reports time TBD. EPS forecast: $0.15 | Market cap: $12,661,746,700",
+      "link": "https://www.nasdaq.com/market-activity/stocks/rdy/earnings"
+    },
+    {
+      "id": "earn-ALLY-2027-01-20",
+      "title": "Ally Financial Inc. (ALLY) Earnings Call",
+      "category": "earnings",
+      "date": "2027-01-20",
+      "description": "Reports time TBD. EPS forecast: $1.37 | Market cap: $11,208,661,000",
+      "link": "https://www.nasdaq.com/market-activity/stocks/ally/earnings"
+    },
+    {
+      "id": "earn-KNX-2027-01-20",
+      "title": "Knight Transportation, Inc. (KNX) Earnings Call",
+      "category": "earnings",
+      "date": "2027-01-20",
+      "description": "Reports time TBD. EPS forecast: $0.82 | Market cap: $10,014,041,100",
+      "link": "https://www.nasdaq.com/market-activity/stocks/knx/earnings"
     }
   ]
 }
